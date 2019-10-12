@@ -1,30 +1,31 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: September 11, 2019 Wednesday
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I just learned JWT authentication and add to my mini-project.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled with developing fullstack app, but, overall, I feel like I am slowly progress on doing fullstack. So I decided break into pieces the fullstack of MERN.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
+1. [CRUD Application](https://dashboard.heroku.com/apps/radiant-retreat-14175)
+2. [About JWT](https://www.youtube.com/watch?v=USaB1adUHM0&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE&index=9) 
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: September 12, 2019 Thursday
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Plan to create a small BlogApp.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: My progress: I already create a serverside for registration for User. Right now I'm planning to design a registration page, I'm trying to figure  out if I'm going to use a framework or just plain CSS.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+####**Link(s) to work**: 
 
 
-### Day 1: June 27, Monday
+### Day 3: September 13, 2019 Friday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I'm stuck on designing for frontend and decided to use framework like reactstrap.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** So I decided to refresh my mind and make a tasklist :
+1. Responsive Design with CSS
+2. React lifecycles.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
